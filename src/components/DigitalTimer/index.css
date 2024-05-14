@@ -1,0 +1,110 @@
+.bg-container {
+  background-color: #cffcf1;
+  height: 150vh;
+  background-size: cover;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 70px;
+}
+.consss {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  height: 43vh;
+  background-size: cover;
+  padding-top: 80px;
+  width: 350px;
+  background-position: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.time-containers {
+  background-color: #ffffffff;
+  background-position: center;
+  height: 18vh;
+
+  width: 8vw;
+  padding-top: 10px;
+  border-radius: 120px;
+
+  text-align: center;
+}
+.paused-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.pause-container {
+  display: flex;
+}
+.pause-button {
+  background-color: transparent;
+  border-width: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  cursor: pointer;
+  outline: none;
+}
+
+.image {
+  width: 20%;
+}
+.containers {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.buttonss {
+  background-image: linear-gradient(to left, #00d9f5, #0f172a);
+
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #ffffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.main-heading {
+  font-size: 18px;
+}
+
+.parassss {
+  color: #ffffffff;
+  font-weight: bold;
+
+  font-size: 15px;
+  text-align: center;
+}
+.para {
+  color: #0f172a;
+  text-align: center;
+  font-weight: bold;
+
+  font-size: 16px;
+}
+.parass {
+  color: #00d9f5;
+  font-size: 20px;
+  font-weight: bold;
+}
+.ssssss {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+}
